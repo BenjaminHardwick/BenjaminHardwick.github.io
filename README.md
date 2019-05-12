@@ -1,2 +1,2 @@
 # BenjaminHardwick.github.io
-Personal website and blog.
+Personal website, informational about myself and displays my website development skills.
